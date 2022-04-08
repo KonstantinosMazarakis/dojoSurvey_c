@@ -1,0 +1,13 @@
+form {
+    width: 450px;
+    margin: 0 auto;
+}
+
+.flx{
+    justify-content: flex-end;
+}
+
+.flx-2{
+    justify-content: space-around;
+}
+
